@@ -56,12 +56,12 @@
 <br>
 
 ### 🔑 Login Page
-![Login Page](screenshots/login_page.png)
+![Login Page](screenshots/Login_page.png)
 
 <br>
 
 ### 📋 Dashboard — Task List
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 <br>
 
@@ -76,7 +76,7 @@
 <br>
 
 ### 🖥️ VS Code — Project Structure
-![VS Code Setup](screenshots/vs_code_setup.png)
+![VS Code Setup](screenshots/VS_code_setup.png)
 
 <br>
 
