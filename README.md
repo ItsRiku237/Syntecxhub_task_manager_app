@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✅ Syntecxhub Task Manager App
+# 📋 Syntecxhub Task Manager App
 
 **A Full-Stack MERN Task Manager with Secure JWT Authentication**
 
